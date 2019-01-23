@@ -46,7 +46,7 @@ Output:
    ![ListByType](screenshots/listv1.png?raw=true)
 
 
-You can get more information about pokemonlar from http://www.pokemongodb.net/.
+You can get more information about Pokémons from http://www.pokemongodb.net/.
 
 
 
